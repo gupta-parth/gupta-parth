@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript by following The Odin Project as well as freeCodeCamp..
-- 💬 Check out some of my projects below.
-- 📫 Feel free to connect with me on Linkedin: https://www.linkedin.com/in/parth-gupta-66b494202/
+I am currently a part of McGill NeuroTech and McGill Robotics; two design teams at McGill University. My interests lie in automation, computer vision and neuroscience. On the side, I'm learning full stack development and picking up frameworks like React. Feel free to send me a connect on LinkedIn at https://www.linkedin.com/in/parth-gupta12/ :)
